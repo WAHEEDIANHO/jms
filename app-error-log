@@ -1,0 +1,168 @@
+{"level":"error","message":"Fri Jan 06 2023 01:39:49 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 01:55:55 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 01:57:14 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 01:57:40 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 01:58:32 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 01:58:56 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:01:30 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:03:38 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:05:36 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:06:00 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:06:06 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:08:41 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Fri Jan 06 2023 02:57:33 GMT+0100 (West Africa Standard Time)-Error: Login sessions require session support. Did you forget to use `express-session` middleware?","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:00:35 GMT+0100 (West Africa Standard Time)-Error: Login sessions require session support. Did you forget to use `express-session` middleware?","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:01:35 GMT+0100 (West Africa Standard Time)-JsonWebTokenError: secret or public key must be provided","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:09:18 GMT+0100 (West Africa Standard Time)-Error: Login sessions require session support. Did you forget to use `express-session` middleware?","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:13:33 GMT+0100 (West Africa Standard Time)-TypeError: Cannot read properties of undefined (reading '_id')","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:15:02 GMT+0100 (West Africa Standard Time)-Error: Login sessions require session support. Did you forget to use `express-session` middleware?","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:15:37 GMT+0100 (West Africa Standard Time)-JsonWebTokenError: secret or public key must be provided","private":true}
+{"level":"error","message":"Fri Jan 06 2023 03:16:30 GMT+0100 (West Africa Standard Time)-JsonWebTokenError: secret or public key must be provided","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:34:55 GMT+0100 (West Africa Standard Time)-ValidationError: noOfEmployee: Path `noOfEmployee` is required., qualification: Path `qualification` is required., email: Path `email` is required., deadline: Path `deadline` is required., hireDuration: Path `hireDuration` is required., jobType: Path `jobType` is required., location: Path `location` is required., salary: Path `salary` is required., desc: Path `desc` is required., title: Path `title` is required.","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:48:15 GMT+0100 (West Africa Standard Time)-Error: title,desc,salary,location,jobType,hireDuration,deadline,email,salary,hireDuration,noOfEmployee,salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:55:31 GMT+0100 (West Africa Standard Time)-SyntaxError: Unexpected token , in JSON at position 577","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:55:57 GMT+0100 (West Africa Standard Time)-SyntaxError: Unexpected token , in JSON at position 577","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:58:36 GMT+0100 (West Africa Standard Time)-Error: salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Sat Jan 07 2023 23:59:14 GMT+0100 (West Africa Standard Time)-Error: salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Sun Jan 08 2023 00:00:07 GMT+0100 (West Africa Standard Time)-ValidationError: qualification: Path `qualification` is required.","private":true}
+{"level":"error","message":"Sun Jan 08 2023 00:02:24 GMT+0100 (West Africa Standard Time)-Error: qualification","private":true}
+{"level":"error","message":"Sun Jan 08 2023 05:48:14 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,email","private":true}
+{"level":"error","message":"Sun Jan 08 2023 05:48:53 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Sun Jan 08 2023 05:51:58 GMT+0100 (West Africa Standard Time)-API Error: Unable to apply for Job","private":true}
+{"level":"error","message":"Sun Jan 08 2023 05:52:18 GMT+0100 (West Africa Standard Time)-API Error: Unable to apply for Job","private":true}
+{"level":"error","message":"Mon Jan 09 2023 02:40:10 GMT+0100 (West Africa Standard Time)-API Error: Unable to apply for Job","private":true}
+{"level":"error","message":"Mon Jan 09 2023 02:42:38 GMT+0100 (West Africa Standard Time)-API Error: Unable to apply for Job","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:18 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:18 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:19 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:19 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:19 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:21 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:22 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:24 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:38:25 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:50:33 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:50:33 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:50:59 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:50:59 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:50:59 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:32 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:32 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:32 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:32 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:35 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:35 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:35 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:35 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:35 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:36 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:45 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:47 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:51:53 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:52:08 GMT+0100 (West Africa Standard Time)-Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:53:59 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:54:49 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:54:53 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:55:34 GMT+0100 (West Africa Standard Time)-API Error: No job find","private":true}
+{"level":"error","message":"Mon Jan 09 2023 03:55:45 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 04:01:43 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 04:09:44 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is undefined.","private":true}
+{"level":"error","message":"Mon Jan 09 2023 04:18:57 GMT+0100 (West Africa Standard Time)-API Error: No job find","private":true}
+{"level":"error","message":"Mon Jan 09 2023 04:27:00 GMT+0100 (West Africa Standard Time)-API Error: No job find","private":true}
+{"level":"error","message":"Mon Feb 20 2023 04:55:38 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is null.","private":true}
+{"level":"error","message":"Mon Feb 20 2023 04:56:58 GMT+0100 (West Africa Standard Time)-TypeError: Cannot destructure property 'data' of '(intermediate value)' as it is null.","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:40:50 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:43:21 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:43:28 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:44:41 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:48:28 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:48:33 GMT+0100 (West Africa Standard Time)-TypeError: Class constructor APIError cannot be invoked without 'new'","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:51:00 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 05:52:36 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Mon Feb 20 2023 06:56:24 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 06:57:35 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Mon Feb 20 2023 06:59:42 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,jobId,email","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:52:59 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:55:18 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:57:16 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:57:30 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:57:31 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:57:32 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Wed Feb 22 2023 02:57:33 GMT+0100 (West Africa Standard Time)-API Error: Unable to sunmit application","private":true}
+{"level":"error","message":"Thu Feb 23 2023 07:41:09 GMT+0100 (West Africa Standard Time)-Error: firstname,lastname,email,phone,qualification,address,email","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:13:53 GMT+0100 (West Africa Standard Time)-Error: title,desc,salary,location,jobType,hireDuration,deadline,qualification,noOfEmployee,email,salary,hireDuration,noOfEmployee,salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:15:38 GMT+0100 (West Africa Standard Time)-Error: title,desc,salary,location,jobType,hireDuration,deadline,qualification,noOfEmployee,email,salary,hireDuration,noOfEmployee,salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:15:51 GMT+0100 (West Africa Standard Time)-Error: title,desc,salary,location,jobType,hireDuration,deadline,qualification,noOfEmployee,email,salary,hireDuration,noOfEmployee,salary,hireDuration,noOfEmployee","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:20:56 GMT+0100 (West Africa Standard Time)-Error: salary,qualification,email,salary,salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:21:39 GMT+0100 (West Africa Standard Time)-Error: salary,qualification,email,salary,salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:22:25 GMT+0100 (West Africa Standard Time)-Error: salary,qualification,email,salary,salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:32:18 GMT+0100 (West Africa Standard Time)-Error: salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:32:24 GMT+0100 (West Africa Standard Time)-Error: salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:33:17 GMT+0100 (West Africa Standard Time)-Error: salary","private":true}
+{"level":"error","message":"Thu Feb 23 2023 09:34:15 GMT+0100 (West Africa Standard Time)-Error: salary","private":true}
+{"level":"error","message":"Sat Feb 25 2023 10:25:30 GMT+0100 (West Africa Standard Time)-Error: hireDuration,qualification,hireDuration,hireDuration","private":true}
+{"level":"error","message":"Sat Feb 25 2023 10:25:35 GMT+0100 (West Africa Standard Time)-Error: hireDuration,qualification,hireDuration,hireDuration","private":true}
+{"level":"error","message":"Sat Feb 25 2023 22:08:01 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
+{"level":"error","message":"Sat Feb 25 2023 22:08:12 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
+{"level":"error","message":"Sat Feb 25 2023 22:08:14 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
