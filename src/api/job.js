@@ -2,7 +2,7 @@ const express = require('express');
 const { body, validationResult } = require('express-validator');
 
 const JobService = require('../service/job-service')
-const { verifyUser, isEmployee} = require('./middleware/auth')
+const { verifyUser, isEmployee, verifyEmployee, verifyAdmin} = require('./middleware/auth')
 const { initiateError } = require("../utils");
 const { STATUS_CODES } = require("../utils/app-errors");
 
@@ -19,7 +19,7 @@ const jobRouter = () => {
             return res.status(200).json(data)
         })
 
-        .post(verifyUser,
+        .post(verifyUser, verifyEmployee,
             [
                 body(['title', 'desc', 'salary', 'location',
                 'jobType', 'hireDuration', 'deadline', 'qualification', 'noOfEmployee'], 'Enter valid data into each field').trim().notEmpty(),
@@ -46,14 +46,14 @@ const jobRouter = () => {
         )
 
     router.route('/:id')
-        .get( async (req, res, next) => {
+        .get(verifyUser, verifyAdmin, async (req, res, next) => {
             try {
                 const  data  = await service.getJobById(req.params.id);
                 res.status(200).json(data);
             } catch (e) { next(e) }
         })
 
-        .put(verifyUser, async (req, res, next) => {
+        .put(verifyUser, verifyAdmin, async (req, res, next) => {
             try {
                 const { data } = await service.updateJob({userId: req.user._id.toString(), jobId: req.params.id, update: req.body });
                 res.status(200).json(data);
@@ -62,7 +62,7 @@ const jobRouter = () => {
             }
         })
 
-        .delete(verifyUser, async (req, res, next) => {
+        .delete(verifyUser, verifyAdmin, async (req, res, next) => {
             try {
                 const  { data } = await service.deleteJob({userId: req.user._id.toString(), jobId: req.params.id}) || {};
                 return res.status(200).json(data)

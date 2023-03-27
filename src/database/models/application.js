@@ -8,7 +8,8 @@ const appSchema = new Schema({
     email: { type: String, required: true },
     phone: { type: String, required: true },
     qualification: { type: String, required: true },
-    address: { type: String, required: true }
+    address: { type: String, required: true },
+    jobId: { type: Schema.Types.ObjectId, ref: "job", required: true }
 }, { timestamps: true })
 
 module.exports = mongoose.model('application', appSchema)

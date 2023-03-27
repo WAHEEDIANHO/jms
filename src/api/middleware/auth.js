@@ -32,7 +32,19 @@ exports.jwtPassport = passport.use(new JwtStrategy(opts, (jwt_payload, done) => 
 }))
 
 exports.verifyUser = passport.authenticate('jwt', {session: false});
-exports.isEmployee = (req, res, next) => {
-    console.log(req.user)
-    next()
-}
+
+exports.verifyAdmin = (req, res, next) => {
+    if (req.user.admin) {
+        next();
+    } else {
+        res.status(401).send("Unauthorized access")
+    }
+};
+
+exports.verifyEmployee = (req, res, next) => {
+    if (req.user.role === "employee" || req.user.admin) {
+        next();
+    } else {
+        res.status(401).send("Unauthorized access")
+    }
+};

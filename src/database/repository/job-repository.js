@@ -47,7 +47,7 @@ class JobRepository{
             }
 
             console.log("updated", query, advQuery)
-            const jobs = await JobModel.find(query).limit(advQuery.limit).sort({'createdAt': -1});
+            const jobs = await JobModel.find(query).limit(advQuery.limit).sort({'createdAt': -1}).populate("applications");
             return jobs;
         } catch (e) {
             throw new APIError('API Error', STATUS_CODES.INTERNAL_ERROR, 'No job find')

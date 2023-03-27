@@ -166,3 +166,10 @@
 {"level":"error","message":"Sat Feb 25 2023 22:08:01 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
 {"level":"error","message":"Sat Feb 25 2023 22:08:12 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
 {"level":"error","message":"Sat Feb 25 2023 22:08:14 GMT+0100 (West Africa Standard Time)-NOT FOUND: No entry match userId: 63b77fed99f91d2be70da23a","private":true}
+{"level":"error","message":"Sun Mar 26 2023 02:20:31 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Sun Mar 26 2023 02:27:42 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Sun Mar 26 2023 03:31:59 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Sun Mar 26 2023 03:32:29 GMT+0100 (West Africa Standard Time)-NOT FOUND: user already exist","private":true}
+{"level":"error","message":"Mon Mar 27 2023 07:11:49 GMT+0100 (West Africa Standard Time)-API Error: Unable to Create Job","private":true}
+{"level":"error","message":"Mon Mar 27 2023 07:37:26 GMT+0100 (West Africa Standard Time)-API Error: Unable to Create Job","private":true}
+{"level":"error","message":"Mon Mar 27 2023 07:37:40 GMT+0100 (West Africa Standard Time)-API Error: Unable to Create Job","private":true}
