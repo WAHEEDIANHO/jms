@@ -63,6 +63,7 @@ const userRouter = () => {
             token: token,
             _id: req.user._id,
             role: req.user.role,
+            isAdmin: req.user.admin,
             status: "You are successfully loged in",
         });
     })
